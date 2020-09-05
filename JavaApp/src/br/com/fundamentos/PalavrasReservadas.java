@@ -9,6 +9,6 @@ public class PalavrasReservadas {
  * 
  */
 	
-	int numero;
+	int numero1;
 	
 }
