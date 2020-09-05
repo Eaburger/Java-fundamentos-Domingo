@@ -15,6 +15,15 @@ public class TrabalhandoComVariaveis {
 	
 	System.out.println(quantidade);
 	
+	double NumeroComVirgula;
+	NumeroComVirgula = 1.3;
+	
+	System.out.println("Numero Decimal -->"+ NumeroComVirgula);
+	
+	float NumeroComVirgulaPontoFlutuante= 1.5f;
+	System.out.println("Numero Decimal com Float" + NumeroComVirgulaPontoFlutuante);
+			
+	
 	}
 	
 
