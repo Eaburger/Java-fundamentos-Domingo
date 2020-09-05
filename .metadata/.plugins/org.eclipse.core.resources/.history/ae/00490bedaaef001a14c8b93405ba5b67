@@ -9,7 +9,7 @@ public class Escape {
 		System.out.println("alicio da \tcunha");
 		System.out.println("alicio da \fcunha");
 		System.out.println("alicio da \rcunha");
-		System.out.println("alicio da \\cuunha\\");
+		System.out.println("alicio da \\cunha\\");
 		
 	}
 }
