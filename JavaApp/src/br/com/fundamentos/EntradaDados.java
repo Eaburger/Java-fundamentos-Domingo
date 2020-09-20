@@ -5,7 +5,7 @@ public class EntradaDados {
 		
 	Scanner entrada = new Scanner(System.in);
 	System.out.println("Nome:  ");
-	String nomo = entrada.nextLine();
+	String nome = entrada.nextLine();
 	
 	
 	System.out.println("Peso: ");
